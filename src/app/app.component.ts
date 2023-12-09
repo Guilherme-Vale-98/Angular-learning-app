@@ -12,5 +12,5 @@ import {RouterModule} from '@angular/router';
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  title = 'My First Learning App';
+  title = 'Housing Shop';
 }
